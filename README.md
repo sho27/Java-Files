@@ -4,3 +4,4 @@ To convert data types
 If Statement
 Switch Statement
 Nested Switch Statement
+Print 1 to 100
