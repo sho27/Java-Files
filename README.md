@@ -5,3 +5,4 @@ If Statement
 Switch Statement
 Nested Switch Statement
 Print 1 to 100
+Print n1 to n2
