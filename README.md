@@ -18,3 +18,5 @@ sum of odd numbers between 1 to 100
 sum of odd numbers between n1 to n2
 sum of even numbers between 1 to 100
 sum of even numbers between n1 to n2
+sum of prime numbers between 1 to 100
+sum of prime numbers between n1 to n2
