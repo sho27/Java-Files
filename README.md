@@ -10,3 +10,7 @@ Odd numbers between 1 to 100
 odd numbers between n1 to n2
 even numbers between 1 to 100
 even numbers between n1 to n2
+Prime Numbers between 1 to 100
+prime numbers between n1 to n2
+sum of 1 to 100
+sum of n1 to n2
