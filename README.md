@@ -1,22 +1,29 @@
-A "Hello World!" Program
-Accept and print all basic data types
-To convert data types
-If Statement
-Switch Statement
-Nested Switch Statement
-Print 1 to 100
-Print n1 to n2
-Odd numbers between 1 to 100
-odd numbers between n1 to n2
-even numbers between 1 to 100
-even numbers between n1 to n2
-Prime Numbers between 1 to 100
-prime numbers between n1 to n2
-sum of 1 to 100
-sum of n1 to n2
-sum of odd numbers between 1 to 100
-sum of odd numbers between n1 to n2
-sum of even numbers between 1 to 100
-sum of even numbers between n1 to n2
-sum of prime numbers between 1 to 100
-sum of prime numbers between n1 to n2
+implemented a "Hello World!" Program
+implemented accept and print all basic data types program
+implemented to convert data types program
+implemented If Statement
+implemented Switch Statement
+implemented Nested Switch Statement
+implemented Print 1 to 100
+implemented Print n1 to n2
+implemented print Odd numbers between 1 to 100
+implemented print odd numbers between n1 to n2
+implemented print even numbers between 1 to 100
+implemented print even numbers between n1 to n2
+implemented print Prime Numbers between 1 to 100
+implemented print prime numbers between n1 to n2
+implemented sum of 1 to 100
+implemented sum of n1 to n2
+implemented sum of odd numbers between 1 to 100
+implemented sum of odd numbers between n1 to n2
+implemented sum of even numbers between 1 to 100
+implemented sum of even numbers between n1 to n2
+implemented sum of prime numbers between 1 to 100
+implemented sum of prime numbers between n1 to n2
+implemented declaration, assigning and accessing integer arrays
+implemented sum of array elements
+implemented average of array elements
+implmented greatest number of array elements
+implemented second greatest number of array elements
+implemented smallest number of array elements
+implemented second smallest number of array elements
