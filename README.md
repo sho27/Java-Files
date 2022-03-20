@@ -30,3 +30,4 @@ implemented second smallest number of array elements
 implemeted program to search specific nunber within array and print the number of repetition
 implemented program to delete a number from an array
 implemented program to add new number in an array
+implemented a class to accept and print personal information
