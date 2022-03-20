@@ -40,3 +40,5 @@ implemented the use of try, catch and finally statement with suitable examples.
 implemented multilevel inheritance
 implemented a program which connects with mysql database.
 implemented a program to insert records into the database table
+implemented e a program to update a record of a database table (based on a specific field).
+implemented a program to delete a record of a database table (based on specific field).
