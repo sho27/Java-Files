@@ -38,3 +38,5 @@ implemented a foam class which extends the Wood class and create Duster class wh
 implemented this and super keywords
 implemented the use of try, catch and finally statement with suitable examples.
 implemented multilevel inheritance
+implemented a program which connects with mysql database.
+implemented a program to insert records into the database table
