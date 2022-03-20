@@ -27,3 +27,6 @@ implmented greatest number of array elements
 implemented second greatest number of array elements
 implemented smallest number of array elements
 implemented second smallest number of array elements
+implemeted program to search specific nunber within array and print the number of repetition
+implemented program to delete a number from an array
+implemented program to add new number in an array
