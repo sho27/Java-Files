@@ -45,3 +45,4 @@ implemented a program to delete a record of a database table (based on specific 
 implemented a program to delete all records of the database table.
 implemented a program to display all records of the database table.
 implemented a program to display a record of a database table (based on specific field).
+implemented a program to update all records of database table
